@@ -6,7 +6,7 @@ def app():
     st.subheader(":email: 이메일 문의")
 
     contact_form = """
-    <form action="https://formsubmit.co/alexander@mod-int.com" method="POST">
+    <form action="https://formsubmit.co/alexander.c@hotmail.com" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="이름" required>
         <input type="email" name="email" placeholder="이메일" required>
